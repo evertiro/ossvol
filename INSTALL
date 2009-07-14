@@ -1,0 +1,8 @@
+Run the install.sh / uninstall.sh scripts as root.
+
+ossvol is installed under /usr/bin by default
+
+Use --prefix=/prefix/path to change the install prefix.
+
+Note that if you use --prefix, you will have to pass the same prefix
+to uninstall.sh.
