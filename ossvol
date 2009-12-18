@@ -6,8 +6,8 @@
 
 # Configure stuff
 VOLSTORE=~/.volume
-CHANNEL="vol"
-ARGUMENT=$2
+CHANNEL="vmix0-outvol"
+ARGUMENT=2
 
 # You shouldn't have to edit below here.
 err() {
