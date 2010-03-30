@@ -10,6 +10,8 @@ CHANNEL="vmix0-outvol"
 ARGUMENT=2
 
 # You shouldn't have to edit below here.
+[ ! -z $2 ] && ARGUMENT=$2
+
 err() {
 	echo "$1"
 	exit 1
