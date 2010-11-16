@@ -1,5 +1,8 @@
+Version 0.3 (2010-11-15)
+    - Added ability to restore on reboot (thanks nobu)
+
 Version 0.2 (2009-04-28)
-	- Updated to include man page
+    - Updated to include man page
 
 Version 0.1 (2008-12-10)
-	- Initial release
+    - Initial release
